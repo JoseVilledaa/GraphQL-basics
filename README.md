@@ -10,7 +10,7 @@ Para instalar los modulos de node ejecutar el comando. 🚨
 npm install
 ```
 
-Para ejecutar el servidor ejecuta el siguiente comando. 🚨
+Para ejecutar el servidor usa el siguiente comando. 🚨
 
 ```
 npm start
